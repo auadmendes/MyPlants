@@ -21,22 +21,20 @@ App to care of your plants
     <img src="https://user-images.githubusercontent.com/5294488/133346413-44319b29-7f65-4daf-b29d-40447256a7ec.PNG" width="100">
     <img src="https://user-images.githubusercontent.com/5294488/133346463-066d49cf-c0f6-479e-9372-c7489203c292.PNG" width="100">
   </div>
+  <h1>Android</h1>
   <div class="column">
-    <img src="wedding.jpg">
-    <img src="rocks.jpg">
-    <img src="falls2.jpg">
-    <img src="paris.jpg">
-    <img src="nature.jpg">
-    <img src="mist.jpg">
-    <img src="paris.jpg">
+    <img src="https://user-images.githubusercontent.com/5294488/133347385-741c82a6-548b-4291-ba64-34f9723d1dd4.jpg" width="100">
+    <img src="https://user-images.githubusercontent.com/5294488/133347552-10524be8-fca0-480a-9e4f-5bd5edcc1686.jpg" width="100">
+    <img src="https://user-images.githubusercontent.com/5294488/133347610-e537fb18-b997-4515-acd0-5495da822df0.jpg" width="100">
+    <img src="https://user-images.githubusercontent.com/5294488/133347678-a8b8d5fc-ab84-46fb-b52c-4b6c671c97f6.jpg" width="100">
+    <img src="https://user-images.githubusercontent.com/5294488/133347750-5fb2fb41-9213-4627-941d-82b1a96fab7e.jpg" width="100">
+    <img src="https://user-images.githubusercontent.com/5294488/133347822-163123aa-3d99-4fb3-a5db-e9460ab7a3cb.jpg" width="100">
   </div>
   <div class="column">
-    <img src="underwater.jpg">
-    <img src="ocean.jpg">
-    <img src="wedding.jpg">
-    <img src="mountainskies.jpg">
-    <img src="rocks.jpg">
-    <img src="underwater.jpg">
+    <img src="https://user-images.githubusercontent.com/5294488/133347870-5f89d2d4-808f-43a8-b303-ff21b62b7c7d.jpg" width="100">
+    <img src="https://user-images.githubusercontent.com/5294488/133347942-c38d6744-8f3d-4b11-bdbe-aabf3e18e5da.jpg" width="100">
+    <img src="https://user-images.githubusercontent.com/5294488/133347994-806d25b1-7e89-4b08-b903-e602739e9731.jpg" width="100">
+    <img src="https://user-images.githubusercontent.com/5294488/133348035-90226214-41ee-4387-aed0-cc6d569e0f31.jpg" width="100">
   </div>
 </div>  
 </html>
