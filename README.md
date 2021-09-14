@@ -2,7 +2,28 @@
 App to care of your plants
 <html>
   <div>
-    <h4>Trabalho de acompanhamento Rocketseat</h4>
+    <h4>Trabalho de acompanhamento #NLW Rocketseat</h4>
+    <div>
+      <h2>Tecnologias utilizadas</h2>
+      <ul>
+        <li>Expo</li>
+        <li>Javascript</li>
+        <li>React Native</li>
+        <li>Hooks</li>
+        <li>AsyncStorage</li>
+        <li>SVG</li>
+        <li>UseNavigation</li>
+        <li>Lottie</li>
+        <li>Firebase Authentication</li>
+        <li>Firestore</li>
+        <li>Storage from Firebase</li>
+        <li>Unsplash API</li>
+        <li>Google fonts</li>
+        <li>axios</li>
+        <li>date-fns</li>
+        <li>AsyncStorage</li>
+      </ul>
+    </div>
   </div>
 <div class="row">
   <div class="column">
