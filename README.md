@@ -21,7 +21,7 @@ App to care of your plants
         <li>Google fonts</li>
         <li>axios</li>
         <li>date-fns</li>
-        <li>AsyncStorage</li>
+        <li>Styled components</li>
       </ul>
     </div>
   </div>
