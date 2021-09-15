@@ -4,7 +4,7 @@ App to care of your plants
   <div>
     <h4>Trabalho de acompanhamento #NLW Rocketseat</h4>
     <div>
-      <h2>Tecnologias utilizadas</h2>
+      <h2>Technologies</h2>
       <ul>
         <li>Expo</li>
         <li>Javascript</li>
